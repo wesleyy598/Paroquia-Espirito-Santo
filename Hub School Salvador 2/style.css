@@ -1,0 +1,113 @@
+body {
+    font-family: "Arial";
+}
+
+header {
+    background-color: #58aff4;
+    padding: 25px 25px;
+}
+
+.caixa {
+    width: 940px;
+}
+
+.logo {
+    width: 40%;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 5%;
+    margin-right: auto;
+}
+
+nav {
+    position: absolute;
+    top: 35px;
+    right: 5%;
+    left: 35%;
+}
+
+nav li {
+    display: inline;
+    margin-left: 18px;
+    margin-right: 18px;
+    font-family: 'Handlee', cursive;
+    
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #000;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    color:white;
+}
+
+.banner {
+    object-fit:cover;
+    height: 300px;
+    width: 100%;
+}
+
+.principal {
+    width: 100%;
+    background-color: #eee;
+    margin: 0 auto;
+}
+
+.mapa {
+    padding: 30px 0;
+}
+
+.mapa h2 {
+    text-align: center;
+}
+
+.mapa h3 {
+    text-align: center;
+    font-size: 13px;
+}
+
+.mapa-conteudo {
+    width: 940px;
+    margin: 0 auto;
+}
+
+.mapa-iframe {
+    width: 940px;
+    height: 300px;
+}
+
+footer {
+    text-align: center;
+    background-color: #58aff4;
+    margin-top: 5px;
+}
+
+.copyright {
+    line-height: 0;
+    color:black;
+    font-size: 13px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.logo-rodape {
+    width: 10%;
+}
+
+main h2 {
+    text-align: center;
+}
+
+.youtube {
+    width: 40%;
+    margin: auto;
+}
+
+main {
+    background-color: #58aff4;
+    margin-top: 5px;
+}
