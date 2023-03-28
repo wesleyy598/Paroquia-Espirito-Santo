@@ -16,3 +16,7 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.myBackground {
+    background-image: src(../img/pes_carousel.jpg);
+}

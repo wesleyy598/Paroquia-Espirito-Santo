@@ -1,0 +1,38 @@
+/* Fundo escuro para o modal */
+.modal-backdrop {
+    background-color: rgba(0,0,0,0.5);
+}
+
+/* Centraliza verticalmente o modal */
+.modal {
+    text-align: center;
+    padding: 0 !important;
+}
+
+.modal:before {
+    content: '';
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    margin-right: -4px;
+}
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+nav {
+    position: relative;
+  }
+  
+  .nav-item-modal {
+    position: absolute;
+    top: 0;
+    left: 500;
+    right: 0;
+    margin: 10px;
+  }
+
+  

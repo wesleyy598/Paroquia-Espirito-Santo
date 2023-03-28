@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MEGAsync\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto.csproj",
+      "projectUniqueName": "C:\\Users\\TI-Wesley\\Documents\\GitHub\\Paroquia-Espirito-Santo\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto.csproj",
       "projectName": "ParoquiaEspiritoSanto",
-      "projectPath": "D:\\MEGAsync\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto.csproj",
+      "projectPath": "C:\\Users\\TI-Wesley\\Documents\\GitHub\\Paroquia-Espirito-Santo\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto.csproj",
       "packagesPath": "C:\\Users\\TI-Wesley\\.nuget\\packages\\",
-      "outputPath": "D:\\MEGAsync\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto\\ParoquiaEspiritoSanto\\obj\\",
+      "outputPath": "C:\\Users\\TI-Wesley\\Documents\\GitHub\\Paroquia-Espirito-Santo\\ParoquiaEspiritoSanto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\TI-Wesley\\AppData\\Roaming\\NuGet\\NuGet.Config",

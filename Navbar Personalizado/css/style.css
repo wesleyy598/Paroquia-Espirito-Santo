@@ -1,0 +1,30 @@
+/* RESET */
+* {margin: 0; padding: 0; font-size: 100%; font-family: 'Open Sans', sans-serif; 
+    font-weight: normal; box-sizing: border-box; border: none; outline: none;}
+
+img {max-width: 100%;}
+ul {list-style: none;}
+a {text-decoration: none;}
+h2 {font-size: 1.5em; color: #333;}
+p {font-size: 1em; color: #777;}
+
+/*MENU*/
+.menu {width: 100%; float: left; background-color: #1E90FF; padding: 19px 19%;}
+.menu li {float: left;}
+.menu li a {color: #FFFAF0; margin-right: 22px; font-weight: bold;}
+.menu li a:hover {color: #DCDCDC;}
+
+/*SOCIAL ICONS*/
+.social-icons {float: right;}
+.social-icons a {color: #fff; float: left; margin-left: 12px;}
+
+/* social icons flutuante tutorial 
+https://www.youtube.com/watch?v=uo7jnd5ejxw 
+https://www.youtube.com/watch?v=lqbRZncxXOQ&list=PLwXQLZ3FdTVF_HYP5r1oR7vK1_7ZuTU78&index=5 
+
+OUTROS LINKS:
+https://fonts.google.com/
+https://fontawesome.com/
+https://www.w3schools.com/cssref/css_colors.asp
+*/
+
